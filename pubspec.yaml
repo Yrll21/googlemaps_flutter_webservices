@@ -1,6 +1,6 @@
 name: googlemaps_flutter_webservices
 description: Google maps web services for flutter (Geocoding, Places, Directions, Distance Matrix, Photos, Timezone, Static Map)
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/Yrll21/googlemaps_flutter_webservices.git
 homepage: https://github.com/Yrll21/googlemaps_flutter_webservices
 
