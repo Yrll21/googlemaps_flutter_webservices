@@ -1,14 +1,5 @@
 # Changelog
 
-## 1.1.1
-- Format code
-
-## 1.1.0
-- Remove deprecated properties
-
-## 1.0.1
-- Minor tweaks
-
 ## 1.0.0
 
 - Geocoding API
