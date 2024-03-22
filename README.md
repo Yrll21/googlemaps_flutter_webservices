@@ -1,7 +1,5 @@
 # google_maps_flutter_webservices
 
-note: This is forked from dev-juju/flutter_google_maps_webservices which is also originally from https://github.com/fluttercommunity/flutter_google_places (But was unmaintained)
-
 ## General Information
 
 This is the Dart Library for Google Maps Webservices.
