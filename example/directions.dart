@@ -3,7 +3,7 @@ library flutter_google_maps_webservices.directions.example;
 import 'dart:async';
 import 'dart:io';
 
-import 'package:flutter_google_maps_webservices/directions.dart';
+import 'package:googlemaps_flutter_webservices/directions.dart';
 
 final directions =
     GoogleMapsDirections(apiKey: Platform.environment['API_KEY']);

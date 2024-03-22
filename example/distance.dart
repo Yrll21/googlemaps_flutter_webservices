@@ -3,7 +3,7 @@ library flutter_google_maps_webservices.distance.example;
 import 'dart:async';
 import 'dart:io';
 
-import 'package:flutter_google_maps_webservices/distance.dart';
+import 'package:googlemaps_flutter_webservices/distance.dart';
 
 final GoogleDistanceMatrix distanceMatrix =
     GoogleDistanceMatrix(apiKey: Platform.environment['API_KEY']);

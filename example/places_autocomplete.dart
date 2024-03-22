@@ -2,7 +2,7 @@ library flutter_google_maps_webservices.places.autocomplete.example;
 
 import 'dart:async';
 import 'dart:io';
-import 'package:flutter_google_maps_webservices/places.dart';
+import 'package:googlemaps_flutter_webservices/places.dart';
 
 final places = GoogleMapsPlaces(apiKey: Platform.environment['API_KEY']);
 

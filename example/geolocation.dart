@@ -3,7 +3,7 @@ library flutter_google_maps_webservices.gelocation.example;
 import 'dart:async';
 import 'dart:io';
 
-import 'package:flutter_google_maps_webservices/geolocation.dart';
+import 'package:googlemaps_flutter_webservices/geolocation.dart';
 
 final geolocation =
     GoogleMapsGeolocation(apiKey: Platform.environment['API_KEY']);
