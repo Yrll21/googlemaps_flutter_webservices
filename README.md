@@ -1,4 +1,6 @@
-# flutter_google_maps_webservices
+# google_maps_flutter_webservices
+
+note: This is forked from dev-juju/flutter_google_maps_webservices which is also originally from https://github.com/fluttercommunity/flutter_google_places (But was unmaintained)
 
 <p>
   <a href="https://github.com/dev-juju/flutter_google_maps_webservices/actions?query=workflow%3ADart"><img src="https://github.com/dev-juju/flutter_google_maps_webservices/workflows/Dart/badge.svg?branch=master" alt="Build Status"></a>
