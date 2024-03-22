@@ -111,4 +111,4 @@ The apiKey is not required in case the proxy sets it. (Not storing the apiKey in
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: https://github.com/dev-juju/flutter_google_maps_webservices/issues/new
+[tracker]: https://github.com/Yrll21/googlemaps_flutter_webservices/issues/new
