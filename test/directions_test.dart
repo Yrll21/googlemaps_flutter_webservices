@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:flutter_google_maps_webservices/src/core.dart';
-import 'package:flutter_google_maps_webservices/src/directions.dart';
+import 'package:googlemaps_flutter_webservices/src/core.dart';
+import 'package:googlemaps_flutter_webservices/src/directions.dart';
 import 'package:test/test.dart';
 
 final _uri = Uri(

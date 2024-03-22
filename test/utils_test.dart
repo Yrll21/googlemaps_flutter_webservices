@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:test/test.dart';
-import 'package:flutter_google_maps_webservices/src/utils.dart';
+import 'package:googlemaps_flutter_webservices/src/utils.dart';
 
 Future<void> main() async {
   group('Google Maps Utils', () {

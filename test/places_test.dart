@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:flutter_google_maps_webservices/places.dart';
+import 'package:googlemaps_flutter_webservices/places.dart';
 import 'package:test/test.dart';
 
 Future<void> main() async {

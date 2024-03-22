@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:flutter_google_maps_webservices/timezone.dart';
+import 'package:googlemaps_flutter_webservices/timezone.dart';
 import 'package:test/test.dart';
 
 final _uri = Uri(

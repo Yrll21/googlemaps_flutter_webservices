@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:flutter_google_maps_webservices/geolocation.dart';
+import 'package:googlemaps_flutter_webservices/geolocation.dart';
 import 'package:test/test.dart';
 
 Future<void> main() async {
