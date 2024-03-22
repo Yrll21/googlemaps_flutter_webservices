@@ -1,4 +1,4 @@
-library flutter_google_maps_webservices.utils;
+library googlemaps_flutter_webservices.utils;
 
 import 'dart:async';
 
