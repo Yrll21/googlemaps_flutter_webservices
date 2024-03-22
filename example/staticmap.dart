@@ -1,4 +1,4 @@
-library flutter_google_maps_webservices.staticmap.example;
+library googlemaps_flutter_webservices.staticmap.example;
 
 import 'dart:io';
 

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+Minor tweaks/changes
+
 ## 1.0.0
 
 - Geocoding API

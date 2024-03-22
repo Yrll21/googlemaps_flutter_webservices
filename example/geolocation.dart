@@ -1,4 +1,4 @@
-library flutter_google_maps_webservices.gelocation.example;
+library googlemaps_flutter_webservices.gelocation.example;
 
 import 'dart:async';
 import 'dart:io';

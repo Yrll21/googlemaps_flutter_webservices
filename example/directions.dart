@@ -1,4 +1,4 @@
-library flutter_google_maps_webservices.directions.example;
+library googlemaps_flutter_webservices.directions.example;
 
 import 'dart:async';
 import 'dart:io';

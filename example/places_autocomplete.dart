@@ -1,4 +1,4 @@
-library flutter_google_maps_webservices.places.autocomplete.example;
+library googlemaps_flutter_webservices.places.autocomplete.example;
 
 import 'dart:async';
 import 'dart:io';
